@@ -3,4 +3,4 @@ module.exports ={
         c=a+b
         console.log(c)
     }
-}
+};

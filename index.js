@@ -1,3 +1,3 @@
-var sum=require("./newfunc.js")
-sum.infunc(4,7);
-console.log(a,b)
+var nf=require("./newfunc.js");
+console.log(4,7);
+nf.sum(a,b);
