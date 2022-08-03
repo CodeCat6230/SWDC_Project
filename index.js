@@ -1,3 +1,5 @@
 var nf=require("./newfunc.js");
-console.log(4,7);
+a=4
+b=7
+console.log(a,b);
 nf.sum(a,b);
