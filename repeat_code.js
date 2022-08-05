@@ -3,6 +3,8 @@ let j = 0;
 let p = 0;
 let q = 0;
 
+
+
  let repeat_w = 10;
 
 while (repeat_w > 0) {
