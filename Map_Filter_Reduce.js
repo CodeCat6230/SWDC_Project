@@ -20,4 +20,4 @@ const SWI = array1.reduce(
 );
 
 console.log(SWI);
-// expected output: 10
+
